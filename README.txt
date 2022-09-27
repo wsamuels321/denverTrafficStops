@@ -1,0 +1,1 @@
+this is a basic jupyter notebook idea using python that digests the data from https://www.denvergov.org/media/gis/DataCatalog/police_pedestrian_stops_and_vehicle_stops/csv/police_pedestrian_stops_and_vehicle_stops.csv to visualize traffics stops in Denver,CO.
